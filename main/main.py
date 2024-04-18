@@ -6,6 +6,3 @@
 
 "hello woman"
 
-
-"hello world2"
-"hello4"
